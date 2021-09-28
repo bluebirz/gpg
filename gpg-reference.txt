@@ -1,0 +1,14 @@
+GPG abilities
+https://en.wikipedia.org/wiki/GNU_Privacy_Guard
+GPG alternatives and comparisons
+https://security.stackexchange.com/questions/39765/public-keys-on-openssl-vs-pgp
+GPG diagram
+https://truedmp.atlassian.net/wiki/spaces/PDATA/pages/604996528/Encryption+methods#id-#Encryptionmethods-FileEncryptionusingOpenSSL
+GPG methodologies
+https://yanhan.github.io/posts/2017-09-27-how-to-use-gpg-to-encrypt-stuff.html
+http://www.dxulab.org/wiki/fileencryptionusingopensslandpgp
+http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/
+https://www.gnupg.org/documentation/manpage.html
+https://unix.stackexchange.com/questions/171715/encrypt-and-sign-with-specific-secret-key
+https://unix.stackexchange.com/questions/60213/gpg-asks-for-password-even-with-passphrase
+
